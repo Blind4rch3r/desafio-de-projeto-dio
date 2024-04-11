@@ -16,4 +16,4 @@ Neste projeto a terefa foi modularizar o projeto anterior, separando as operaç�
 
 *desafio_poo.py*
 
-Neste projeto a terefa foi utilização de Programação Orientada a Objetos, fazendo a separação do código em classes.
+Neste projeto a tarefa foi utilização de Programação Orientada a Objetos, fazendo a separação do código em classes.
