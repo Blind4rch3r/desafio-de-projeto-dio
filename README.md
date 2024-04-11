@@ -13,3 +13,7 @@ Neste projeto foi criado uma simulação para um Sistema Bancário em Python. O 
 *desafio_modular.py*
 
 Neste projeto a terefa foi modularizar o projeto anterior, separando as operações em funções. Além disso, nesta versão foi implementada 2 novas funções: criar usuário e criar conta corrente.
+
+*desafio_poo.py*
+
+Neste projeto a terefa foi utilização de Programação Orientada a Objetos, fazendo a separação do código em classes.
